@@ -5,14 +5,13 @@ Este é um projeto simples de **carrinho de compras da Shopee**, desenvolvido co
 ---
 
 ## ✨ Funcionalidades
-
-<!-- - ✅ Criar item no catálogo -->
+- 🏠 Menu principal
 - ➕ Adicionar item ao carrinho
 - ➖ Remover item do carrinho
 - ❌ Deletar item do carrinho
-<!-- - 📦 Listar itens disponíveis no catálogo -->
+- 📦 Listar itens disponíveis no catálogo
 - 🛍️ Ver carrinho atual
-<!-- - 🚪 Sair do sistema -->
+- 🚪 Sair do sistema
 
 ---
 

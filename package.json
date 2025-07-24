@@ -17,5 +17,8 @@
     "url": "https://github.com/WillianAmorim/shopee-shopping-cart/issues"
   },
   "homepage": "https://github.com/WillianAmorim/shopee-shopping-cart#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "inquirer": "^12.8.2"
+  }
 }
